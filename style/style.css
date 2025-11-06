@@ -153,4 +153,38 @@
     color: #666;
     font-size: 14px;
 }
+.icon 
+{
+    width: 30px;
+    height: 30px;
+    margin: 0px 2px;
+}
+.circle 
+{
+    border-radius: 50%;
+}
+.store 
+{
+    width: 60px;
+    height: 20px;
+    margin: 0px 5px;
+}
+.app 
+{
+    color: grey;
+    font-weight: 700;
+}
+.copy 
+{
+    font-size: 14px;
+    color: grey;
+}
+.footer-2-same
+{
+    margin-bottom: 20px;
+}
+.footer-para 
+{
+    color: grey;
+}
 /* end */
