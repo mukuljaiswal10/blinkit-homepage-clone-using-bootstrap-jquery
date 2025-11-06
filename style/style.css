@@ -1,0 +1,156 @@
+ .span-same
+{
+    line-height: 32px;
+    font-size: 20px;
+    color: rgb(12, 131, 31);
+    cursor: pointer;
+}
+.same-heading 
+{
+    color: rgb(28, 28, 28);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+.banner-list .owl-nav ,.owl-dots
+{
+    display: none;
+}
+.item-list .owl-nav ,.owl-dots
+{
+    display: none;
+}
+.item-list-2 .owl-nav ,.owl-dots
+{
+    display: none;
+}
+/* top-banner */
+.top-banner img 
+{
+    cursor: pointer;
+}
+/* end */
+
+/* banner-list */
+.banner-list-img
+{
+    cursor: pointer;
+}
+/* end */
+
+/* item-list */
+.item-list-img
+{
+    cursor: pointer;
+}
+/* end */
+
+/* daily */
+.daily-item 
+{
+    cursor: pointer;
+    box-shadow:inset 0px 0px 10px 2px #f3f2f2;
+}
+.delivery-time
+{
+    padding:5px;
+    border-radius: 10px;
+}
+.delivery-time img 
+{
+    width: 20px !important;
+    height: 20px;
+    background-color: rgb(250, 247, 244);
+}
+.delivery-time>span 
+{
+    font-size: 13px;
+    background-color: rgb(250, 247, 244);
+}
+.daily-item>p 
+{
+    color: rgb(31, 31, 31);
+    font-weight: 600;
+    font-size: 12px;
+}
+.quatity>h6 
+{
+    color: grey;
+    font-weight: 200;
+}
+.add-cart>button 
+{
+    border-radius: 10px;
+    padding: 2px 15px;
+    border:1px solid green;
+    background-color: #F7FFF9;
+    color:green;
+    text-transform: uppercase;
+}
+.price>div 
+{
+    font-size: 13px;
+}
+.daily .owl-prev
+{
+    background-color:white !important;
+    height: 40px !important;
+    width: 40px !important;
+    border-radius: 50% !important;
+    position: absolute;
+    top: 40%;
+    left: 0px;
+    cursor:  pointer !important;
+    box-shadow: 0px 0px 10px 2px #ccc;
+    font-size: 34px !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.daily .owl-prev:hover 
+{
+    color: black !important;
+    background-color: rgb(252, 252, 252) !important;
+}
+.daily .owl-next
+{
+    background-color:white !important;
+    height: 40px !important;
+    width: 40px !important;
+    border-radius: 50% !important;
+    position: absolute;
+    top: 40%;
+    right: 0px;
+    cursor:  pointer !important;
+    box-shadow: 0px 0px 10px 2px #ccc;
+    font-size: 34px !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.daily .owl-next:hover 
+{
+    color: black !important;
+    background-color: rgb(252, 252, 252) !important;
+}
+/* end */
+
+/* footer */
+.footer-same>h2 
+{
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin: 24px 0px;
+}
+.footer-same>h5>a 
+{
+    text-decoration: none;
+    color: #666;
+    font-size: 14px;
+}
+/* end */
